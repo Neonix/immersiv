@@ -1,0 +1,11 @@
+email: neonix@lovewow.fr
+fullname: 'Nils NICOLAS'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$mJsVG9ir6jZbYupujv7yb.E69fu6ZGolNEyI3nhrlTH7YxGjFsqMK
