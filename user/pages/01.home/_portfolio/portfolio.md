@@ -1,53 +1,80 @@
 ---
 title: Portfolio
-portfolio:
-  - title: "Coffee Cup"
-    description: Illustration
-    img: coffee.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Web Development
-    details: http://www.behance.net
-  - title: "Console"
-    description: Web Development
-    img: console.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Web Development
-    details: http://www.behance.net
-  - title: "Judah"
-    description: Webdesign
-    img: judah.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding
-    details: http://www.behance.net
-  - title: "Into The Light"
-    description: Photography
-    img: intothelight.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Photography    
-    details: http://www.behance.net
-  - title: "Farmer Boy"
-    description: Branding
-    img: farmerboy.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Webdesign   
-    details: http://www.behance.net
-  - title: "Girl"
-    description: Photography
-    img: girl.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Photography
-    details: http://www.behance.net
-  - title: "Origami"
-    description: Illustration
-    img: origami.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Illustration  
-    details: http://www.behance.net
-  - title: "Retrocam"
-    description: Web Development
-    img: retrocam.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Webdesign, Photography   
-    details: http://www.behance.net   
+menu: portfolio
+portfolios:
+    - title: Dreams
+      subtitle: Website Design
+      layout: default
+      modalid: 1
+      date: 2014-07-18
+      img: dreams.png
+      thumbnail: dreams-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+    - title: Escape
+      subtitle: Website Design
+      layout: default
+      modalid: 2
+      date: 2014-07-17
+      img: escape.png
+      thumbnail: escape-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim  . Cu eum dicam feugiat noluisse.
+    - title: Golden
+      subtitle: Website Design
+      layout: default
+      modalid: 3
+      date: 2014-07-16
+      img: golden.png
+      thumbnail: golden-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.
+    - title: Treehouse
+      subtitle: Website Design
+      layout: default
+      modalid: 4
+      date: 2014-07-15
+      img: treehouse.png
+      thumbnail: treehouse-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.
+    - title: Startup Framework
+      subtitle: Website Design
+      layout: default
+      modalid: 5
+      date: 2014-07-14
+      img: startup-framework.png
+      thumbnail: startup-framework-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.
+    - title: Round Icons
+      subtitle: Graphic Design
+      layout: default
+      modalid: 6
+      date: 2014-07-15
+      img: roundicons.png
+      thumbnail: roundicons-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.                 
 ---
-#Check Out Some of My Works.
+
+## Portfolio
+### Lorem ipsum dolor sit amet consectetur.

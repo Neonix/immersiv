@@ -1,7 +1,69 @@
-title: Grav
+title: Immersiv
+default_lang: en
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: Neonix
+  email: contact@immersiv.nc
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+  description: 'Creation 3D VR AR'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+email: contact@immersiv.com
+description: 'Description à mettre'
+links:
+  -
+    title: Solutions
+    url: '#services'
+  -
+    title: References
+    url: '#portfolio'
+  -
+    title: About
+    url: '#about'
+  -
+    title: Team
+    url: '#team'
+  -
+    title: Contact
+    url: '#contact'
+social:
+  -
+    title: twitter
+    url: 'http://twitter.com/'
+  -
+    title: facebook
+    url: 'http://facebook.com/immersiv.nc'
+  -
+    title: vimeo
+    url: 'https://vimeo.com/user71452435'
+  -
+    title: stack-overflow
+    url: 'http://stackoverflow.com/questions/tagged/'
+  -
+    title: bitbucket
+    url: 'http://bitbucket.org/'
+  -
+    title: github
+    url: 'http://github.com/'
+address:
+  -
+    line: '6 rue du commandant babo'
+  -
+    line: 'Nouméa, 98807'
+phone:
+  -
+    portable: '92 59 27'
+quicklinks:
+  -
+    title: 'Privacy Policy'
+    url: '#'
+  -
+    title: 'Terms of Use'
+    url: '#'
