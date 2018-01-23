@@ -11,7 +11,6 @@ content:
             - _header
             - _services
             - _portfolio
-            - _about
             - _team
             - _clients
 ---

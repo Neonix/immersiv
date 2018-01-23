@@ -8,6 +8,7 @@ taxonomies:
   - tag
 metadata:
   description: 'Creation 3D VR AR'
+  viewport: width=device-width
 summary:
   enabled: true
   format: short
