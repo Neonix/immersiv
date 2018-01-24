@@ -1,6 +1,6 @@
 ---
-title: Team
-menu: Team
+title: Equipe
+menu: Equipe
 people:
     -
         name: Nolann
@@ -29,8 +29,8 @@ people:
             -
                 title: email
                 url: pierre@immersiv.nc
-description: 'Une petite description de l`équipe'
+description: 'Pére et fils depuis 1923'
 ---
 
-## Our Amazing Team
-### Lorem ipsum dolor sit amet consectetur.
+## Notre équipe de choc
+### Notre talent à votre disposition 
