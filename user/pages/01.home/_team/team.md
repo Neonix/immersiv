@@ -15,7 +15,7 @@ people:
                 url: nolann@immersiv.nc
     -
         name: Philippe
-        pic: PR.jpg
+        pic: icon-pop.jpg
         position: 'Illustrator Architectural'
         social:
             -

@@ -1,8 +1,16 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+$primary: #fed136;
+$secondary: #fec503;
+$secondary-dark: #333;
+
+@font-face {
+   font-family: "immersivRegular";
+   src: url('../fonts/MeedoriSansRegular.ttf');
+}
+
+@font-face {
+   font-family: "immersivBold";
+   src: url('../fonts/MeedoriSansBold.ttf');
+}
 
 body {
     overflow-x: hidden;
@@ -180,7 +188,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "immersivRegular","Helvetica Neue",Helvetica,Arial,cursive;
+    text-transform: uppercase;
     color: $primary;
 }
 

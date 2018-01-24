@@ -836,7 +836,7 @@ td, th {
 
 html {
   font-size: 10px;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 body {
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -4940,7 +4940,7 @@ button.close {
   border-radius: 10px;
   cursor: pointer;
   background-color: #000 \9;
-  background-color: transparent; }
+  background-color: rgba(0, 0, 0, 0); }
 
 .carousel-indicators .active {
   margin: 0;
@@ -5292,11 +5292,12 @@ table-bordered > thead > tr > th, .table-bordered > thead > tr > th, table-borde
   -webkit-box-shadow: none;
   box-shadow: none; }
 
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+@font-face {
+  font-family: "immersivRegular";
+  src: url("../fonts/MeedoriSansRegular.ttf"); }
+@font-face {
+  font-family: "immersivBold";
+  src: url("../fonts/MeedoriSansBold.ttf"); }
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -5449,7 +5450,8 @@ fieldset[disabled] .btn-xl.active {
   background-color: #222; }
 
 .navbar-default .navbar-brand {
-  font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+  font-family: "immersivRegular","Helvetica Neue",Helvetica,Arial,cursive;
+  text-transform: uppercase;
   color: #fed136; }
 
 .navbar-default .navbar-brand:hover,
@@ -5532,9 +5534,7 @@ header {
 
 header .intro-text {
   padding-top: 100px;
-  padding-bottom: 50px; 
-  min-height: 100vh;
-  }
+  padding-bottom: 50px; }
 
 header h1 {
   margin-bottom: 25px;
