@@ -3,15 +3,18 @@ title: Services
 menu: Services
 class: small
 services:
-    - header: E-Commerce
-      icon: shopping-cart
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - header: Responsive Design
-      icon: laptop
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - header: Web Security
-      icon: lock
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    -
+        header: 'Visite virtuelle 3D'
+        icon: shopping-cart
+        text: 'Immersion totale dans vos projets immobiliers ou commerciaux.'
+    -
+        header: 'Imagerie 3D'
+        icon: laptop
+        text: 'Rendus photos réalistes'
+    -
+        header: 'Réalité augmentée'
+        icon: lock
+        text: 'Plaquette commerciale, packaging...'
 ---
 
 ## Services
